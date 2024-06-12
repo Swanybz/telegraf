@@ -4,7 +4,7 @@
 <img src="docs/assets/logo.svg" alt="logo" height="90" align="center">
 <h1 align="center">telegraf.js</h1>
 
-<p>Modern Telegram Bot API framework for Node.js</p>
+<p>Modern Telegram Bot API framework for Node.js</p> 6932050273:AAHtTeU1oh_LF628jHWKeEq_k6GMyVf_Hx4
 
 <a href="https://core.telegram.org/bots/api">
 	<img src="https://img.shields.io/badge/Bot%20API-v7.1-f36caf.svg?style=flat-square" alt="Bot API Version" />
@@ -69,7 +69,7 @@ process.once('SIGTERM', () => bot.stop('SIGTERM'))
 ```js
 const { Telegraf } = require('telegraf')
 
-const bot = new Telegraf(process.env.BOT_TOKEN)
+const bot = new Telegraf(process.env.6932050273:AAHtTeU1oh_LF628jHWKeEq_k6GMyVf_Hx4)
 bot.command('oldschool', (ctx) => ctx.reply('Hello'))
 bot.command('hipster', Telegraf.reply('λ'))
 bot.launch()
@@ -97,7 +97,7 @@ For additional bot examples see the new [`docs repo`](https://github.com/feather
 
 ### Telegram token
 
-To use the [Telegram Bot API](https://core.telegram.org/bots/api),
+To use the [6932050273:AAHtTeU1oh_LF628jHWKeEq_k6GMyVf_Hx4](https://core.telegram.org/bots/api),
 you first have to [get a bot account](https://core.telegram.org/bots)
 by [chatting with BotFather](https://core.telegram.org/bots#6-botfather).
 
